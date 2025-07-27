@@ -34,6 +34,7 @@ The tables are linked using **primary** and **foreign keys**.
 - Binned income into `Income Band` categories:
   - Low (< ₹100,000)
   - Mid (< ₹300,000)
+  - High (> ₹300,000)
 - Derived `Processing Fees` based on the fee structure (e.g., 0.05 for high fee).
 
 ---
